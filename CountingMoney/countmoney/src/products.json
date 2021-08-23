@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "title": "Sakız",
+      "price": 2,
+      "image": "https://partidukkanim.com/image/cache//parti-malzemeleri/pinyata/pinyata-ici/lol-bebek-surprise-sakiz-500x500.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kola",
+      "price": 6,
+      "image": "https://productimages.hepsiburada.net/s/34/375/10443680350258.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ayakkabı",
+      "price": 1000,
+      "image": "https://static.nike.com/a/videos/t_PDP_1280_v1/f_auto,q_auto:eco,so_0.1/dyrkm7tuztoh67dampbe/air-jordan-1-mid-ayakkab%C4%B1-RRTg1P1y.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Araba",
+      "price": 4000000,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lamborghini_Huracan_LP610-4_%2815984279521%29.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Gemi",
+      "price": 80000000,
+      "image": "https://www.lojiport.com/d/news/28577.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Rolex",
+      "price": 1000000,
+      "image": "https://mcdn01.gittigidiyor.net/64877/648777478_0.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Eğitim",
+      "price": 0.00,
+      "image": "https://yurtburada.net/wp-content/uploads/2019/11/%C3%9Cniversitede-kendini-geli%C5%9Ftirmek-resim.jpg"
+    },
+    {
+      "id": 8,
+      "title": "iPad Pro",
+      "price": 1700,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Çanta",
+      "price": 1500000,
+      "image": "https://herwearshop.com/wp-content/uploads/2019/07/Birkin-25-1-1.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Elmas",
+      "price": 100000000,
+      "image": "https://www.bilgiustam.com/resimler/2017/12/10841_elmas-05.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Mona Lisa",
+      "price": 2000000000,
+      "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Ekmek",
+      "price": 0.1,
+      "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Messi",
+      "price": 120000000,
+      "image": "https://cdn.ntvspor.net/c1248d133a1d4968b04de1cc6390ff6c.jpg?&mode=crop&w=940&h=626.6666666666666"
+    },
+    {
+      "id": 14,
+      "title": "Külçe Altın",
+      "price": 50000,
+      "image": "https://cdn.dsmcdn.com//ty7/product/media/images/20200805/16/7060872/72205207/1/1_org_zoom.jpeg"
+    },
+    {
+      "id": 15,
+      "title": "Neymar",
+      "price": 150000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/big/68290-1602849593.jpg?lm=1"
+    },
+    {
+      "id": 16,
+      "title": "Lebron James",
+      "price": 80000000,
+      "image": "https://cdn.ntvspor.net/2299c4b1f26d4d328dd698ebbd414e17.png?&mode=crop&w=940&h=626.6666666666666"
+    }
+  ]
